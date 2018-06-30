@@ -28,4 +28,5 @@ module Room
     # Don't generate system test files.
     config.generators.system_tests = nil
   end
+  # I have forked it, It is good, no need to change.
 end
